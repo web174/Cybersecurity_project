@@ -1,0 +1,45 @@
+==========================================================
+ Core Data Handling
+----------------------------------------------------------
+ Used for efficient data ingestion, cleaning, transformation,
+ and exploratory analysis on large-scale cybersecurity logs.
+pandas>=1.5.0
+numpy>=1.23.0
+
+==========================================================
+ Data Visualization
+----------------------------------------------------------
+ matplotlib & seaborn:
+   - Used for static, publication-ready plots
+   - Ideal for understanding traffic patterns and anomalies
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+plotly:
+   - Enables interactive visual analytics
+   - Helps stakeholders explore attack trends dynamically
+plotly>=5.15.0
+
+==========================================================
+ Machine Learning & Analytics
+----------------------------------------------------------
+scikit-learn:
+   - Used for feature preprocessing and modeling
+   - Supports attack pattern recognition and anomaly detection
+scikit-learn>=1.2.0
+
+==========================================================
+ Application & Deployment
+----------------------------------------------------------
+streamlit:
+   - Transforms analysis into an interactive dashboard
+   - Designed for judges, analysts, and non-technical reviewers
+streamlit>=1.25.0
+
+==========================================================
+ Environment & Stability
+----------------------------------------------------------
+ warnings:
+   - Used to suppress non-critical alerts
+   - Keeps notebook output clean and professional
+   (Built-in, listed here for clarity and transparency)
