@@ -1,5 +1,5 @@
 🚨 Cybersecurity Traffic Analysis & Web Attack Detection
-🔍 Why I Chose This Project (Judge Hook – Read This Carefully)
+
 
 In a world where every second counts in cybersecurity, raw data alone is useless unless it is converted into actionable intelligence.
 
@@ -77,7 +77,7 @@ Dashboard Creation
 
 Converted analysis into a decision-ready interface
 
-Built for judges, analysts, and non-technical reviewers
+Built for analysts, and non-technical reviewers
 
 📊 Key Insights Generated
 
